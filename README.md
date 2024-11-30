@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, i'm tul. 👋
+Luau, C++, C#, HTML, Python
 
-<!--
-**tulontop/tulontop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll just be releasing all my projects on this page: Source Open / Closed.
 
-Here are some ideas to get you started:
+## My Experiences
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,html,py)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,discord,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio)](https://skillicons.dev)
+
+**Lua** - Advanced
+
+**C++** - Normal
+
+**C#** - Normal
+
+**HTML** - Starter ( Learning )
+
+**Python** - Normal
+
+## Socials
+[![discord](https://img.shields.io/badge/discord-260C42?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1202115003067400192/)
